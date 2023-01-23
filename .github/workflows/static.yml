@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TV Broadcasting Business</title>
+  </head>
+  <body>
+    <header>
+      <h1>TV Broadcasting Business</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#programs">Programs</a></li>
+        <li><a href="#schedule">Schedule</a></li>
+        <li><a href="#contact">Contact Us</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section id="about">
+        <h2>About Us</h2>
+        <p>Our TV broadcasting business has been on the air for X years, providing high-quality programming for our viewers.</p>
+      </section>
+      <section id="programs">
+        <h2>Programs</h2>
+        <ul>
+          <li>Show 1</li>
+          <li>Show 2</li>
+          <li>Show 3</li>
+        </ul>
+      </section>
+      <section id="schedule">
+        <h2>Schedule</h2>
+        <table>
+          <tr>
+            <th>Time</th>
+            <th>Program</th>
+          </tr>
+          <tr>
+            <td>8:00am</td>
+            <td>Show 1</td>
+          </tr>
+          <tr>
+            <td>9:00am</td>
+            <td>Show 2</td>
+          </tr>
+          <tr>
+            <td>10:00am</td>
+            <td>Show 3</td>
+          </tr>
+        </table>
+      </section>
+      <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Phone: 555-555-5555</p>
+        <p>Email: info@tvbroadcastingbusiness.com</p>
+        <p>Address: 123 Main St, Anytown USA</p>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright © 20XX TV Broadcasting Business</p>
+    </footer>
+  </body>
+</html>
